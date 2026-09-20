@@ -1,0 +1,116 @@
+BME 454 - PRACTICAL 1 - WORKSHEET 
+Activity: Check it, then compare                      (25 minutes, pairs)
+Names: ____________________________________   Date: ____________________
+===========================================================================
+BACKGROUND
+  A MISSENSE VARIANT changes one amino acid in a protein. Some are
+  harmless (BENIGN); some cause disease (PATHOGENIC). AlphaMissense is an
+  AI model that predicts which. You will use it yourselves in Practical 10.
+
+THE QUESTION a student typed into an AI chatbot:
+  "What is AlphaMissense, and can doctors use it to diagnose genetic
+   diseases? Please include scientific references."
+
+THE CHATBOT'S ANSWER
+  CONSTRUCTED EXAMPLE - written by the course team to look like a typical
+  chatbot answer. It contains deliberate mistakes. Do not cite it.
+  .........................................................................
+  [1] AlphaMissense is an AI model from Google DeepMind that predicts
+      whether a missense variant is likely to cause disease (Cheng et al.,
+      2023).
+  [2] It was published in Nature in 2021, alongside AlphaFold (Jumper et
+      al., 2021).
+  [3] It learned to recognise harmful variants by training on ClinVar, a
+      database of variants already classified by clinical experts.
+  [4] For each variant it gives a score between 0 and 1.
+  [5] Its predictions are 99% accurate and are approved for diagnosis, so
+      doctors can diagnose a genetic disease from the score alone (Morgan
+      et al., 2024).
+  [6] The predictions can be downloaded, but only for non-commercial
+      research.
+
+  References
+  R1  Cheng J, Novati G, Pan J, et al. Accurate proteome-wide missense
+      variant effect prediction with AlphaMissense. Science.
+      2023;381(6664):eadg7492. doi:10.1126/science.adg7492
+  R2  Jumper J, Evans R, Pritzel A, et al. AlphaMissense: accurate
+      prediction of missense variant pathogenicity. Nature.
+      2021;596(7873):583-589. doi:10.1038/s41586-021-03819-2
+  R3  Morgan KL, Hassan A, Brooks DT. Clinical accuracy of AlphaMissense
+      for diagnosing genetic disease: a multicentre validation. N Engl J
+      Med. 2024;391(8):702-711. doi:10.1056/NEJMoa2409999
+  .........................................................................
+
+---------------------------------------------------------------------------
+WHERE TO CHECK - use these sources, not another chatbot
+---------------------------------------------------------------------------
+  Any reference   https://doi.org - paste the DOI and see which paper opens.
+                  To find a title: https://pubmed.ncbi.nlm.nih.gov or
+                  https://scholar.google.com (search the exact title in
+                  "quotes").
+  The paper (R1)  https://doi.org/10.1126/science.adg7492 - read the
+                  abstract.
+  The developer   Google DeepMind, "A catalogue of genetic mutations to
+                  help pinpoint the cause of diseases" (19 September 2023):
+                  https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/
+  The dataset     "Predictions for AlphaMissense" on Zenodo:
+                  https://doi.org/10.5281/zenodo.10813168 - look at the
+                  version, the licence and the usage notes.
+  No internet? Ask for the printed evidence cards.
+
+---------------------------------------------------------------------------
+PART A - CHECK THE ANSWER                                     (13 minutes)
+---------------------------------------------------------------------------
+A1  Guess first (1 minute, no checking). Circle the claims you think are
+    wrong:       [1]     [2]     [3]     [4]     [5]     [6]
+
+A2  The references (4 minutes). Paste each DOI into https://doi.org.
+
+        What opens at doi.org?                          The same paper as
+                                                        the reference?
+    R1  ______________________________________________  YES  /  NO
+    R2  ______________________________________________  YES  /  NO
+    R3  ______________________________________________  YES  /  NO
+
+A3  The claims (7 minutes). For each claim write CORRECT, INCORRECT or
+    OUTDATED (true once, but not any more), and where you checked it.
+
+        Verdict           Checked in
+    [1] _______________   _______________________________________________
+    [2] _______________   _______________________________________________
+        The real journal and year: ___________________________________
+    [3] _______________   _______________________________________________
+        What was it really trained on? _______________________________
+    [4] _______________   _______________________________________________
+    [5] _______________   _______________________________________________
+        What does the dataset record say about clinical use?
+        ______________________________________________________________
+    [6] _______________   _______________________________________________
+        The licence shown on the dataset record: _____________________
+
+A4  Which mistake would do the most harm if a doctor believed it? Why?
+    ______________________________________________________________________
+    ______________________________________________________________________
+
+---------------------------------------------------------------------------
+
+===========================================================================
+Activity B on your own. Hand this part in.
+Name: ____________________________________________
+---------------------------------------------------------------------------
+1. Rename this file: "final results NEW (2).xlsx". It holds the GC
+   content of the human TP53 gene, measured on 3 October 2026.
+   ________________________________________________________________________
+
+2. What is metadata? Give one example.
+   ________________________________________________________________________
+   ________________________________________________________________________
+
+3. A chatbot gives you a reference. Name two ways to check it.
+   ________________________________________________________________________
+   ________________________________________________________________________
+
+4. Give one difference between a chatbot and an AI model such as
+   AlphaMissense.
+   ________________________________________________________________________
+   ________________________________________________________________________
