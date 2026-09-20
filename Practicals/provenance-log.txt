@@ -1,0 +1,27 @@
+BME 454 - PROVENANCE LOG            (one per practical - keep them all)
+Practical no.: ____  Date (YYYY-MM-DD): __________  Name(s): _______________
+===========================================================================
+ 1. Today's question or task:
+    ______________________________________________________________________
+ 2. Data used (name, organism, type):
+    ______________________________________________________________________
+ 3. Source database, accession + VERSION, link:
+    ______________________________________________________________________
+ 4. Date retrieved:
+    ______________________________________________________________________
+ 5. Tools used (name, version if shown, link, date):
+    ______________________________________________________________________
+    ______________________________________________________________________
+ 6. Settings or parameters you changed (or write "defaults"):
+    ______________________________________________________________________
+ 7. Results produced (file names):
+    ______________________________________________________________________
+ 8. Sources cited (DOI, accession or link):
+    ______________________________________________________________________
+ 9. Generative AI used?   NO  /  YES -> which tool and version, what for,
+    and how you checked the output:
+    ______________________________________________________________________
+10. Anything that did not work, or that you are unsure about:
+    ______________________________________________________________________
+===========================================================================
+ Unknowns are written as "unknown - not recorded" - never guessed.
