@@ -1,0 +1,30 @@
+BME 454 Practical 10: Drug target identification and tractability
+
+
+WEBSITES
+UniProt              https://www.uniprot.org
+InterPro             https://www.ebi.ac.uk/interpro
+RCSB PDB             https://www.rcsb.org
+Human Protein Atlas  https://www.proteinatlas.org
+Open Targets         https://platform.opentargets.org
+
+PROTEIN ENTRIES
+
+HER2 
+  Gene                 ERBB2
+  UniProt              P04626            https://www.uniprot.org/uniprotkb/P04626/entry
+  InterPro                               https://www.ebi.ac.uk/interpro/protein/UniProt/P04626/
+  PDB                  3PP0              https://www.rcsb.org/structure/3PP0
+  Ensembl              ENSG00000141736
+  Human Protein Atlas                    https://www.proteinatlas.org/ENSG00000141736-ERBB2/tissue
+  Open Targets                           https://platform.opentargets.org/target/ENSG00000141736
+
+p53 
+  Gene                 TP53
+  UniProt              P04637            https://www.uniprot.org/uniprotkb/P04637/entry
+  InterPro                               https://www.ebi.ac.uk/interpro/protein/UniProt/P04637/
+  PDB                  1TSR              https://www.rcsb.org/structure/1TSR
+  Ensembl              ENSG00000141510
+  Human Protein Atlas                    https://www.proteinatlas.org/ENSG00000141510-TP53/tissue
+  Open Targets                           https://platform.opentargets.org/target/ENSG00000141510
+
